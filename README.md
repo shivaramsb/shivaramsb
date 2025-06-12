@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivaram Babar</h1>
-<h3 align="center">Azure Data Engineer | Cloud Solutions Architect | Data Science Enthusiast</h3>
+<h3 align="center">Azure Data Engineer | Data Science Enthusiast</h3>
 
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
@@ -63,7 +63,6 @@ I'm a passionate Azure Data Engineer with expertise in building scalable data so
 
 **BI & Visualization:**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
@@ -79,9 +78,6 @@ I'm a passionate Azure Data Engineer with expertise in building scalable data so
 
 ### 🏆 Certifications
 - Microsoft Certified: Azure Data Engineer Associate
-- Microsoft Certified: Azure Solutions Architect Expert
-- Databricks Certified Associate Developer for Apache Spark
-- AWS Certified Cloud Practitioner
 
 ---
 
@@ -105,7 +101,3 @@ I'm a passionate Azure Data Engineer with expertise in building scalable data so
 
 ### ✨ Fun Fact
 When I'm not building data pipelines, you can find me hiking in the mountains or experimenting with new data visualization techniques!
-
-<p align="center">
-  <img src="https://github.com/shivaramsb/shivaramsb/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</p>
