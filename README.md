@@ -100,4 +100,4 @@ I'm a passionate Azure Data Engineer with expertise in building scalable data so
 ---
 
 ### ✨ Fun Fact
-When I'm not building data pipelines, you can find me hiking in the mountains or experimenting with new data visualization techniques!
+When I'm not building data pipelines, you can find me hiking in the mountains or experimenting with new data visualization techniques!      
