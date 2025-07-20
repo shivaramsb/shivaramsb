@@ -83,16 +83,16 @@ I'm a passionate Azure Data Engineer with expertise in building scalable data so
 
 ### 📫 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/shivaram-babar" target="blank">
+  <a href="" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivaram-babar" height="30" width="40" />
   </a>
   <a href="https://twitter.com/yourusername" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourusername" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/shivaram_babar" target="blank">
+  <a href="" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivaram_babar" height="30" width="40" />
   </a>
-  <a href="mailto:shivaramb1702@gmail.com">
+  <a href="">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="30" width="40" />
   </a>
 </p>
